@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Aakashkebhadwe.aternos.me:60820",
+    "ip": "Aakashkebhadwe.aternos.me",
     "port": 60820,
     "version": "",
     "try-creative": false
